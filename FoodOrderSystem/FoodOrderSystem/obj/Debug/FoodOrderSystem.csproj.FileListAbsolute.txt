@@ -1,0 +1,7 @@
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\bin\Debug\FoodOrderSystem.exe.config
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\bin\Debug\FoodOrderSystem.exe
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\bin\Debug\FoodOrderSystem.pdb
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\obj\Debug\FoodOrderSystem.csprojResolveAssemblyReference.cache
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\obj\Debug\FoodOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\obj\Debug\FoodOrderSystem.exe
+C:\Users\Grundig\Desktop\NYP Ödev\FoodOrderSystem\FoodOrderSystem\obj\Debug\FoodOrderSystem.pdb
